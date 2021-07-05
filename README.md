@@ -6,6 +6,8 @@ Sales forecasting plays an integral role in setting expectations and making plan
 
 I performed an exhaustive analysis in order to gain insights and engineer features with an interactive exploratory analysis and finally will use different algorithms to predict.
 
+<img src = "https://user-images.githubusercontent.com/83903018/124346442-78365400-dbfc-11eb-8311-2b8689315b38.png">
+
 
 ## Columns in the dataframe:
 1. Id - an Id that represents a Store within the test set
